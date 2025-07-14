@@ -1,30 +1,46 @@
+# Tá na Lista 🛒
 
-# 📦 Tá na Lista - Organizador de Compras 🛒
+**Aplicativo de Lista de Compras moderno e prático.**
 
-**Tá na Lista** é um aplicativo simples e funcional para ajudar você a organizar suas listas de compras com facilidade.
+Organize suas compras com facilidade e estilo, usando um app simples, funcional e visualmente agradável.
 
-## ✅ Progresso Atual
+## 🔗 Acesse o app
+👉 [tanalistaoficial.netlify.app](https://tanalistaoficial.netlify.app/)
 
-- [x] Tela inicial estilizada e responsiva com TailwindCSS
-- [x] Logo centralizado com layout mobile-first
-- [x] Estrutura React com React Router configurado
-- [x] Deploy automático via GitHub → Netlify
+## 🖼️ Preview
+![Preview do App](https://raw.githubusercontent.com/Maxivel25/tanalista/main/public/logotipo-tanalista.png)
 
-## ✨ Próximas Etapas
+## ✨ Funcionalidades
+- Criar e excluir listas de compras
+- Visual moderno e responsivo
+- Ícones e botões intuitivos
+- Experiência fluida e leve com React + TailwindCSS
 
-- [ ] Implementar funcionalidade do botão "Criar minha primeira lista"
-- [ ] Adicionar modo escuro e responsividade aprimorada
-- [ ] Criar animações suaves com framer-motion
-
-## 🚀 Deploy
-O projeto está publicado em: [https://tanalistaoficial.netlify.app](https://tanalistaoficial.netlify.app)
-
-## 🛠️ Tecnologias
-- React + Vite
-- TailwindCSS
-- Netlify (CI/CD)
+## 🚀 Tecnologias usadas
+- React
+- React Router DOM
+- Tailwind CSS
+- Netlify (deploy)
 - GitHub
 
----
+## 📂 Estrutura do Projeto
+- `/src/screens` — Telas principais do app
+- `/src/components` — Componentes reutilizáveis
+- `/public` — Imagens e ícones públicos
+- `tailwind.config.js` — Configuração do Tailwind
 
-Feito com 💜 por Maxivel Ferreira.
+## 🛠️ Como rodar localmente
+
+```bash
+# Instalar dependências
+npm install
+
+# Rodar o projeto
+npm run dev
+```
+
+## 🧑‍💻 Autor
+Projeto criado por **Maxivel Ferreira** — 2025
+
+---
+> Feito com 💜 para facilitar sua rotina no mercado.
